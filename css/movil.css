@@ -46,7 +46,7 @@
 
   .header_bottom_center_options {
     margin-top: 20px;
-    width: 480px;
+    width: 100%;
     flex-direction: column;
   }
 
